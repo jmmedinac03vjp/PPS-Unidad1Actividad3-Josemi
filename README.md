@@ -1,2 +1,23 @@
-# PPS-Unidad1Actividad3-Josemi
-Actividad 3 de la unidad 1. Pruebas en Python
+# PPS-Unidad1Actividad2-JoseMi
+Actividad 3 de la Unidad 1 de Puesta en Producción Segura. Tabajaremos con pruebas en Python.
+
+Tenemos varios objetivos:
+
+> [Conocer las diferentes pruebas software](#Pruebas)
+
+> [Realizar pruebas para las funciones de una calculadora en Python](#Pruebas-en-Python
+
+---
+## Pruebas
+
+En [este enlace](./Presentación-Unidad_1_3_Pruebas.pdf) puedes encontrar la presentación de los contenidos teóricos de la unidad correspondientes a las pruebas software.
+
+## Pruebas en Python
+
+> Sobre la implementación de la aplicación de la calculadora en Python de la actividad anterior:
+> - Comprueba las clases de equivalencia de las funciones isNumber, mayorCero y división
+> - Halla en grafo
+---
+## ENTREGA
+
+>__Envía en un archivo comprimido el fichero o ficheros de pruebas, junto con el código de tu aplicación de calculadora__
