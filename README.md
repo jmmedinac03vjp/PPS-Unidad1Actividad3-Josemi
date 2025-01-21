@@ -15,8 +15,9 @@ En [este enlace](./Presentación-Unidad_1_3_Pruebas.pdf) puedes encontrar la pre
 ## Pruebas en Python
 
 > Sobre la implementación de la aplicación de la calculadora en Python de la actividad anterior:
-> - Comprueba las clases de equivalencia de las funciones isNumber, mayorCero y división
-> - Halla en grafo
+> - Comprueba las clases de equivalencia de las funciones isNumber y división
+> - Halla en grafo de flujo asociado a las funciones division y multiplicación.
+> - Genera los pruebas unitarias con UnitTest o PyTest correspondientes a las funciones isNumber, division y multiplicacion.
 ---
 ## ENTREGA
 
