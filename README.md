@@ -5,12 +5,13 @@ Tenemos varios objetivos:
 
 > [Conocer las diferentes pruebas software](#Pruebas)
 
-> [Realizar pruebas para las funciones de una calculadora en Python](#Pruebas-en-Python
+> [Realizar pruebas para las funciones de una calculadora en Python](#Pruebas-en-Python)
 
 ---
 ## Pruebas
 
 En [este enlace](PresentacionPruebas.pdf) puedes encontrar la presentación de los contenidos teóricos de la unidad correspondientes a las pruebas software.
+En [este otro](Pruebas.ipynb) tienes un _Jupyter Notebook_ donde puedes ver un ejemplo de las pruebas de caja negra y blanca, similar a lo que tienes que hacer.
 
 ## Pruebas en Python
 
@@ -21,4 +22,7 @@ En [este enlace](PresentacionPruebas.pdf) puedes encontrar la presentación de l
 ---
 ## ENTREGA
 
->__Envía en un archivo comprimido el fichero o ficheros de pruebas, junto con el código de tu aplicación de calculadora__
+>__Envía en un archivo comprimido:__
+> - el __código__ de tu aplicación de calculadora.
+> - los __archivos Python con tus pruebas.__ 
+> - Documento donde se vean las __clases de equivalencia y los grafos de flujo__ asociados.
