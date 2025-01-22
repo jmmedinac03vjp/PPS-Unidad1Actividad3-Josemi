@@ -10,7 +10,7 @@ Tenemos varios objetivos:
 ---
 ## Pruebas
 
-En [este enlace](./Presentación-Unidad_1_3_Pruebas.pdf) puedes encontrar la presentación de los contenidos teóricos de la unidad correspondientes a las pruebas software.
+En [este enlace](PresentacionPruebas.pdf) puedes encontrar la presentación de los contenidos teóricos de la unidad correspondientes a las pruebas software.
 
 ## Pruebas en Python
 
